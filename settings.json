@@ -1,0 +1,19 @@
+{
+    "theme": "light",
+    "autosave": true,
+    "font_size": 12,
+    "word_wrap": "word",
+    "font_style": "Consolas",
+    "bottom_bar": true,
+    "session": [
+        {
+            "type": "file",
+            "path": "C:/Users/USER/OneDrive/Desktop/test.txt"
+        },
+        {
+            "type": "file",
+            "path": "C:/Users/USER/OneDrive/Desktop/python_projects/Qr_genarator.py"
+        }
+    ],
+    "last_active_tab": "test.txt"
+}
